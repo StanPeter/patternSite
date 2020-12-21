@@ -1,14 +1,9 @@
-Just a simple landing page using mostly bootstrap4.
+Simple landing page using bootstrap4 for styiling and plain HTML5.
 
 
-Please use as you wish.
+Instruction:
 
-
-
-
-
-
-
+    1. Launch index.html in your browser
 
 
 
